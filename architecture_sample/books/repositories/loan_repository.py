@@ -1,0 +1,3 @@
+
+class LoanRepository:
+    pass
